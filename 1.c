@@ -3,7 +3,7 @@ void main()
 {
 	int n, sum=0, rev=0, r;
 	clrscr();
-	printf("\nEnter the number: ");
+	printf("\nEnter the number:");
 	scanf("%d", &n);
 	while(n>0)
 	{
