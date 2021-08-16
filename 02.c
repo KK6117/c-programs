@@ -7,7 +7,7 @@ void main()
 	clrscr();
 	printf("\nEnter the values of the first coordinate: ");
 	scanf("%d%d", &x1, &y1);
-	printf("\nEnter the values of the second coordinate: ");
+	printf("\n  Enter the values of the second coordinate: ");
 	scanf("%d%d", &x2, &y2);
 	d=sqrt(pow((x2-x1), 2)+pow((y2-y1), 2));
 	printf("\n\nDistance between the two coordinates: %f", d);
