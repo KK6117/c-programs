@@ -6,7 +6,7 @@ void main()
 	float d;
 	clrscr();
 	printf("\n Enter the values of the first coordinate: ");
-	printf("Hey")
+	printf("Hey");
 	scanf("%d%d", &x1, &y1);
 	printf("\nEnter the values of the second coordinate: ");
 	scanf("%d%d", &x2, &y2);
