@@ -3,7 +3,7 @@ void main()
 {
 int i, n, j, k;
 clrscr();
-printf("Enter the size of the pyramid: ");
+printf("Enter the size of all the pyramid: ");
 scanf("%d", &n);
 for(i=1;i<=n;i++)
 {
