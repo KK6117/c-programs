@@ -1,4 +1,4 @@
-1#include<stdio.h>
+#include<stdio.h>
 void main()
 {
 	int n, sum=0, rev=0, r;
