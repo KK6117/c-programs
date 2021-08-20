@@ -1,7 +1,7 @@
 1#include<stdio.h>
 void main()
 {
-	int n, sum=0, rev=0, r;
+	int n, , abc = 0, sum=0, rev=0, r;
 	clrscr();
 	printf("\nEnter the number: ");
 	scanf("%d", &n);
